@@ -1,2 +1,2 @@
-# Customer-Segmentation
+# Customer Segmentation using k-Means and Hierarchical Clustering
 I just completed a project called '**Customer Segmentation using Hierarchical Clustering and k-Means Clustering**'. This involved organizing our customers into meaningful groups based on their similarities. By using a technique called hierarchical clustering and k-Means clustering, we gained valuable insights that can help tailor our services and enhance the overall customer experience. Excited about the impact this can have!!!
